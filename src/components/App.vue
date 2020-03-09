@@ -223,7 +223,7 @@
     }
 
     .testeditor-option .testeditor-input {
-        margin-left: 48px;
+        padding-left: 48px;
     }
 
     .testeditor-ghost {
